@@ -1,3 +1,5 @@
+/* quick sort algorithm */
+
 def qsort(array):
     if len(array) < 2:
         return array
