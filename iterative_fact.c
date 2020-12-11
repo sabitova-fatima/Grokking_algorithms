@@ -10,5 +10,5 @@ return result;
 
 int main()
 {
-printf("The result is %d\n", iter_fact(5);
+printf("The result is %d\n", iter_fact(5));
 }
